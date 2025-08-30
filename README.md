@@ -4,7 +4,7 @@ Our main goal is to use these features to determine if a customer will churn (Ye
 This model can help the company retain customers and reduce potential losses.
 
 Features (X):
-    customerID → Unique ID of the customer (usually not used for modeling).
+    customerID → Unique ID of the customer.
     gender → Customer's gender (Male/Female).
     SeniorCitizen → 1 if customer is senior, 0 otherwise.
     Partner → Whether the customer has a partner (Yes/No).
